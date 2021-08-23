@@ -19,8 +19,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shoa29&&repo=yourfunds&theme=tokyonight" />
 -->
 <br/>
-<br/>
-<br/>
+
 
 <!-- Actual text -->
 
