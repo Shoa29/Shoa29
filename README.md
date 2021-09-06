@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoa29&label=Profile%20views&color=0e75b6&style=flat" alt="shoa29" /> </p>
 
-- 🔭 I’m currently working on **problem solving skills and building strong ML profile**
+- 🔭 I’m currently working on - **problem solving skills and building strong ML profile**
 
-- 🌱 I’m currently learning **Computer Vision and NLP**
+- 🌱 I’m currently learning - **Computer Vision and NLP**
 
 - 🐱‍👤 My Ninja Skeellzzz - **Python, Machine Learning, Full Stack Development, C++,etc.**
 
-- 📫 How to reach me **: Ping me on https://www.linkedin.com/in/shoa-aamir/ Or email me - shoa_aamir@yahoo.in**
+- 📫 How to reach me - **Ping me on https://www.linkedin.com/in/shoa-aamir/ Or email me - shoa_aamir@yahoo.in**
 
-- 📄 Know about my experiences [https://shoa29.github.io/shoa-portfolio/](https://shoa29.github.io/shoa-portfolio/)
+- 📄 Know about my experiences - [https://shoa29.github.io/shoa-portfolio/index.html](https://shoa29.github.io/shoa-portfolio/index.html)
 
-- ⚡ Fun fact **When life throws lemons at me, I sell those lemons 😎😎 🍋🍋 !!**
+- ⚡ Fun fact - **When life throws lemons at me, I sell those lemons 😎😎 🍋🍋 !!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
