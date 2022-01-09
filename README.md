@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on - **problem solving skills and building strong ML profile**
 
-- 🌱 I’m currently learning - **Computer Vision and NLP**
+- 🌱 I’m currently discovering - **Deep Learning**
 
 - 🐱‍👤 My Ninja Skeellzzz - **Python, Machine Learning, Full Stack Development, C++,etc.**
 
