@@ -10,6 +10,7 @@
 - ⚡ Fun fact - **When life throws lemons at me, I sell those lemons 😎😎 🍋🍋 !!**
   
 - Twitter Account : **Follow me on https://twitter.com/ShoaAamir**
+- Medium Profile: [https://medium.com/@shoa.devs](https://medium.com/@shoa.devs)
 
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shoa29&&theme=tokyonight&show_icons=true&locale=en" alt="shoa29" /></p>
